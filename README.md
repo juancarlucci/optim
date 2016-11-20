@@ -1,5 +1,5 @@
 ##Welcome! 
-###This is the awesome optimization project
+###This is the awesome optimization project.
 
 The **SRC** folder contains all the original files, without optimization. You can test using developer tools on a browser.
 You will notive slow rendering speeds.
